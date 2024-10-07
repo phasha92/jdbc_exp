@@ -5,7 +5,7 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
-
+*.properties
 *.iws
 *.iml
 *.ipr
@@ -34,3 +34,4 @@ build/
 
 ### Mac OS ###
 .DS_Store
+src/main/resources/mysqldb.properties
